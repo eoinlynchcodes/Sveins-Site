@@ -97,7 +97,7 @@ h3,
 h4,
 h5,
 p,
-li {
+li{
   font-family: Roboto, sans-serif;
 }
 
@@ -148,6 +148,8 @@ Here on down is CSS for Classes...
 
 .SveinoAndDogPicture{
   width: 100%;
+  margin: 0 auto;
+  /* padding: 20px 20px; */
 }
 
 .container {
@@ -167,6 +169,11 @@ Here on down is CSS for Classes...
   justify-content: center;
   padding: 2rem;
   border: .5px solid black;
+}
+
+.aboutP{
+  margin: 0 auto;
+  padding: 2rem;
 }
 
 .theNavUL{
