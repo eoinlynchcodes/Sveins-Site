@@ -152,6 +152,26 @@ Here on down is CSS for Classes...
   /* padding: 20px 20px; */
 }
 
+.imageTextDiv{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.imageText{
+  position: absolute;
+  top: 350px;
+  left: 16px;
+  transform: (-50%, -50%);
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.homePageText{
+  padding: 70px;
+  margin: 0 auto;
+}
+
 .container {
   max-width: 1200px;
   width: 100%;
