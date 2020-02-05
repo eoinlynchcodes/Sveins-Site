@@ -218,6 +218,10 @@ Here on down is CSS for Classes...
    font-family: Arial, Helvetica, sans-serif; 
  }
 
+ .instagramLogoText{
+   color: white;
+ }
+
  .locationText{
    padding: 70px 0;
  }
